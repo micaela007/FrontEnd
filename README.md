@@ -1,2 +1,5 @@
 # FrontEnd
-Training
+
+Practice Exercise
+
+Hi, this is Michaela's repository.
